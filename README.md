@@ -37,7 +37,7 @@ I'm building toward a career at the intersection of data, strategy, and product 
 I’m looking to grow into roles like:
 - **Data Analyst / Product Analyst**
 - **Marketing Analyst**
-- **ML/AI in Consumer Tech or Gaming**
+- **ML/AI in Consumer Tech**
 
 My long-term interest lies in combining **business strategy + data** in industries that obsess over user experience — like tech, entertainment, and consumer apps.
 
@@ -46,9 +46,9 @@ My long-term interest lies in combining **business strategy + data** in industri
 ## 🤝 Let’s Connect
 
 📍 Based in Boston | 🇮🇳 From Mumbai  
-📫 [LinkedIn]([(https://www.linkedin.com/in/advaitpillai/))  
+📫 [LinkedIn](https://www.linkedin.com/in/advaitpillai/) 
 🧠 Always open to collaborating, sharing ideas, or talking music over coffee ☕
 
 ---
 
-⭐ *Thanks for stopping by. Feel free to explore the pinned projects below or check out my resume and portfolio site soon!*
+⭐ *Thanks for stopping by. Feel free to explore the pinned projects below or check out my resume and portfolio site!*
