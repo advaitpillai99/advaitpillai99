@@ -47,6 +47,7 @@ My long-term interest lies in combining **business strategy + data** in industri
 
 📍 Based in Boston | 🇮🇳 From Mumbai  
 📫 [LinkedIn](https://www.linkedin.com/in/advaitpillai/) 
+
 🧠 Always open to collaborating, sharing ideas, or talking music over coffee ☕
 
 ---
